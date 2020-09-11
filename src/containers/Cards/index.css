@@ -1,0 +1,11 @@
+.root {
+  max-width: 345;
+}
+
+.media {
+  height: 140;
+}
+
+span {
+  padding-left: 5px;
+}
